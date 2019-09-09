@@ -1,0 +1,13 @@
+import ThisKeyword from "./lessons/ThisKeyword";
+import ArrowFunction from "./lessons/ArrowFunction";
+import TypingThis from "./lessons/TypingThis";
+import TypeQueries from "./lessons/TypeQueries";
+import ReadonlyTypes from "./lessons/ReadonlyType";
+import TypeGuards from "./lessons/TypeGuards";
+import InstanceOf from "./lessons/InstanceOf";
+// ThisKeyword();
+// ArrowFunction();
+// TypingThis();
+// TypeQueries();
+// TypeGuards();
+InstanceOf();

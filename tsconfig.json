@@ -3,6 +3,9 @@
     "target": "es5",
     "module": "commonjs",
     "lib": ["dom", "es6"],
-    "outDir": "dist"
+    "outDir": "dist",
+    "noImplicitThis": true,
+    "declarationDir": "./@types",
+    "typeRoots": ["src/@types", "node_modules/@types"]
   }
 }
